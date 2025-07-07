@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+.env
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# General
+.DS_Store
+.vscode/
+dist/
+build/
