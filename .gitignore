@@ -13,3 +13,6 @@ __pycache__/
 .vscode/
 dist/
 build/
+
+# Local tailored CVs per job application
+data/tailored_cv/
